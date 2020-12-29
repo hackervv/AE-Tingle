@@ -12,8 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="tingle" options="-parameters" />
-      <module name="tingle_user" options="" />
+      <module name="tingle_user" options="-parameters" />
     </option>
   </component>
 </project>

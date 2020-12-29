@@ -1,9 +1,9 @@
 spring:
   application:
-    #服务的名称
+    #serverName
     name: ea_user
   cloud:
     nacos:
       discovery:
-        #服务的地址
+        #serverAddr
         server-addr: 127.0.0.1:8848
