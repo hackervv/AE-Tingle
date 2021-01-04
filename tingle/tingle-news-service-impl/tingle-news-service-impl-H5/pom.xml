@@ -3,17 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>tingle</artifactId>
+        <artifactId>tingle-news-service-impl</artifactId>
         <groupId>com.ae</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>tingle-news-service-api</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>tingle-news-service-api-H5</module>
-    </modules>
+    <artifactId>tingle-news-service-impl-H5</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.ae</groupId>
+            <artifactId>tingle-news-service-api-H5</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

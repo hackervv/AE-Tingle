@@ -12,7 +12,7 @@
     <artifactId>ting-news-basics</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>ting-news-basics-springcloud-nacos</module>
+        <module>tingle-news-basics-springcloud-nacos</module>
     </modules>
 
 

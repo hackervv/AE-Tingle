@@ -2,11 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f61e3f5-586d-457c-9427-a9fd68e464b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-basics/tingle-news-basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-common/tingle-news-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-job/tingle-news-job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/H5NewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/tingle-news-service-api-h5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/H5AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/impl/H5NewsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ting-news-basics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tingle-news-basics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-nacos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/tingnewsbasicsspringcloudnacos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ting-news-basics/tingnewsbasics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-common/tinglenewscommon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-job/tinglenewsjob.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tingle-news-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tingle-news-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tingle-news-service-impl/tinglenewsserviceimpl.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/tingle_user/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-H5/target/" />
+    <ignored path="$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-job/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-common/target/" />
+    <ignored path="$PROJECT_DIR$/ting-news-basics/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-basics/ting-news-basics-springcloud-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-basics/target/" />
+    <ignored path="$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-nacos/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="1485">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -35,50 +67,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tingle-news-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/tingle-news-basics/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tingle-news-job/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/H5NewsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/pom.xml">
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/impl/H5NewsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="297">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tingle-news-service-api/pom.xml">
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/H5AppStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl.iml">
           <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ting-news-basics/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/tools/maven/apache-maven-3.6.0/Repository/org/springframework/security/spring-security-config/5.0.3.RELEASE/spring-security-config-5.0.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -101,7 +160,22 @@
         <option value="$PROJECT_DIR$/tingle_user/src/main/java/com/ea/service/UserService.java" />
         <option value="$PROJECT_DIR$/tingle_user/src/main/java/com/ea/AppSpringBoot.java" />
         <option value="$PROJECT_DIR$/tingle_user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-H5/src/main/java/H5Service.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-H5/src/main/java/com/tingle/api/member.java" />
+        <option value="$PROJECT_DIR$/tingle-news-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/H5/service/member.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/Member.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/impl/h5/service/MemnerServiceImpl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/H5NewsService.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/impl/h5/service/H5NewsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/impl/h5/H5AppStart.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/H5AppStart.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/H5AppStart.java" />
+        <option value="$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/impl/H5NewsServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -112,18 +186,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/ting-news-basics/tingnewsbasics.iml" />
-        <option value="$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/tingnewsbasicsspringcloudnacos.iml" />
-        <option value="$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" />
-        <option value="$PROJECT_DIR$/tingle-news-service-impl/tinglenewsserviceimpl.iml" />
-        <option value="$PROJECT_DIR$/tingle-news-common/tinglenewscommon.iml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1617" />
     <option name="height" value="973" />
@@ -146,13 +209,231 @@
             <path>
               <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
               <item name="tingle" type="462c0819:PsiDirectoryNode" />
-              <item name="ting-news-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-basics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
               <item name="tingle" type="462c0819:PsiDirectoryNode" />
-              <item name="ting-news-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="ting-news-basics-springcloud-nacos" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-api-h5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tingle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tingle" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="tingle-news-service-impl-H5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,10 +442,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -177,6 +460,11 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -188,7 +476,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.H5AppStart">
     <configuration name="AppSpringBoot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="tingle_user" />
       <extension name="coverage">
@@ -202,8 +490,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="H5AppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tingle-news-service-imp-lH5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tingle.api.h5.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tingle.api.h5.service.H5AppStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.H5AppStart" />
         <item itemvalue="Spring Boot.AppSpringBoot" />
       </list>
     </recent_temporary>
@@ -226,15 +528,16 @@
       <workItem from="1609291401563" duration="26000" />
       <workItem from="1609492176091" duration="602000" />
       <workItem from="1609727307162" duration="8000" />
-      <workItem from="1609759574698" duration="3999000" />
+      <workItem from="1609759574698" duration="8229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9175000" />
+    <option name="totallyTimeSpent" value="13405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21866667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -244,8 +547,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.42515594" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -259,6 +563,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -274,6 +579,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tingle$H5AppStart.ic" NAME="H5AppStart Coverage Results" MODIFIED="1609772623038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tingle.api.h5.service.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tingle_user/src/main/resources/application.yml">
@@ -325,6 +635,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-nacos/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-H5/src/main/java/H5Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-nacos/tingle-news-basics-springcloud-nacos.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-common/tingle-news-common.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-job/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tingle-news-service-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -333,37 +679,94 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tingle-news-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/tingle-news-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tingle-news-job/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/impl/h5/service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="1485">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ting-news-basics/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/H5NewsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="260">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/pom.xml">
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/H5AppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/impl/H5NewsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -417,7 +820,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tinglenewsserviceapi</last-edited>
+          <last-edited>tingle-news-service-imp-lH5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
