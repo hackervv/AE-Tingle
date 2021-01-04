@@ -9,7 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>tingle_user</module>
+        <module>ting-news-basics</module>
+        <module>tingle-news-service-api</module>
+        <module>tingle-news-service-impl</module>
+        <module>tingle-news-common</module>
+        <module>tingle-news-job</module>
     </modules>
 
     <parent>

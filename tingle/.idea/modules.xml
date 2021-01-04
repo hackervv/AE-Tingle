@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tingle-news-common/tinglenewscommon.iml" filepath="$PROJECT_DIR$/tingle-news-common/tinglenewscommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tingle-news-job/tinglenewsjob.iml" filepath="$PROJECT_DIR$/tingle-news-job/tinglenewsjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" filepath="$PROJECT_DIR$/tingle-news-service-api/tinglenewsserviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tingle-news-service-impl/tinglenewsserviceimpl.iml" filepath="$PROJECT_DIR$/tingle-news-service-impl/tinglenewsserviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ting-news-basics/tingnewsbasics.iml" filepath="$PROJECT_DIR$/ting-news-basics/tingnewsbasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/tingnewsbasicsspringcloudnacos.iml" filepath="$PROJECT_DIR$/ting-news-basics/ting-news-basics-springcloud-nacos/tingnewsbasicsspringcloudnacos.iml" />
+    </modules>
+  </component>
+</project>
