@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-basics/tingle-news-basics-springcloud-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-api/tingle-news-service-api-h5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-base/tingle-news-service-api-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tingle-news-service-impl/tingle-news-service-impl-H5" charset="UTF-8" />
+  </component>
+</project>
