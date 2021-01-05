@@ -7,3 +7,15 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
+
+swagger:
+  base-package: com.tingle.api.h5.service.impl
+  title: SpringCloud2.x
+  description: tingle news system
+  version: 1.0
+  terms-of-service-url:
+  contact:
+    name: Ireck
+    email: 1257760164@qq.com
+    url:
+  enabled: true
