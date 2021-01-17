@@ -16,11 +16,4 @@
         <module>tingle-news-basics-springcloud-gateway</module>
     </modules>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-gateway</artifactId>
-            <version>2.2.1.RELEASE</version>
-        </dependency>
-    </dependencies>
 </project>

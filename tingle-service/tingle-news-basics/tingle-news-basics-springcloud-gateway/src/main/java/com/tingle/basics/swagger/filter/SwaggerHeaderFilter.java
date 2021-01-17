@@ -1,7 +1,6 @@
 package com.tingle.basics.swagger.filter;
 
-import com.mayikt.swagger.config.SwaggerProvider;
-
+import com.tingle.basics.swagger.config.SwaggerProvider;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
 import org.springframework.http.server.reactive.ServerHttpRequest;
