@@ -1,13 +1,13 @@
 package com.tingle.service.impl.usermodule;
 
 import com.alibaba.fastjson.JSONObject;
-import com.tingle.api.service.MD5Util;
 import com.tingle.api.service.base.BaseApiService;
 import com.tingle.api.service.base.BaseResponse;
 import com.tingle.service.api.usermodule.dto.req.UserReqRegisterDto;
 import com.tingle.service.api.usermodule.service.UserRegisterService;
 import com.tingle.service.impl.entitydo.UserDo;
 import com.tingle.service.impl.mapper.UserMapper;
+import com.tingle.utils.MD5Util;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

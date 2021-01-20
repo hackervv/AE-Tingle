@@ -68,4 +68,7 @@ public class BaseApiService<T> {
         return AutoMapper.dtoToDo(dtoEntity, doClass);
     }
     
+    public <Dto> Dto DoToDto(Object dtoEntity, Class<Dto> droClass) {
+        return AutoMapper.doToDto(dtoEntity, droClass);
+    }
 }

@@ -23,6 +23,8 @@ public class UserRespDto {
     private char sex;
 
     private Long age;
+    
+    private String picImg;
 
     public String getMobile() {
         return mobile;
@@ -72,5 +74,4 @@ public class UserRespDto {
         this.picImg = picImg;
     }
 
-    private String picImg;
 }

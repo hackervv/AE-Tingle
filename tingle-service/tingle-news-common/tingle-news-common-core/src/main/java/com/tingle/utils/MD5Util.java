@@ -1,4 +1,4 @@
-package com.tingle.api.service;
+package com.tingle.utils;
 
 import java.security.MessageDigest;
 
@@ -6,11 +6,10 @@ import java.security.MessageDigest;
  * Created with IntelliJ IDEA.
  *
  * @Author: Irecck
- * @Date: 2021/01/17/22:45
+ * @Date: 2021/01/19/19:51
  * @Description:
  */
 public class MD5Util {
-    
     public final static String MD5(String s) {
         char hexDigits[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
         try {

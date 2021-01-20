@@ -11,10 +11,10 @@ spring:
       locator:
         enabled: true
       routes:
-        - id: tingle-h5
-          uri: lb://tingle-h5
+        - id: tingle-user
+          uri: lb://tingle-user
           predicates:
-            - Path=/tingle-h5/**
+            - Path=/tingle-user/**
           filters:
             - SwaggerHeaderFilter
             - StripPrefix=1
