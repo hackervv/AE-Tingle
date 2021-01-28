@@ -26,7 +26,7 @@ interface OrderStats {
 
 interface CustomerData {
     [key: string]: Customer;
-    
+
 }
 
 interface State {
@@ -115,7 +115,7 @@ const Dashboard: FC = () => {
             ...state,
             pendingOrdersCustomers: customers.reduce(
                 (prev: CustomerData, customer) => {
-                    prev[customer.id] = customer; // eslint-disable-line no-param-reassign
+                    prev[customer.id] = customer; // eslint-disable-line no-param-reassign .
                     return prev;
                 },
                 {}
