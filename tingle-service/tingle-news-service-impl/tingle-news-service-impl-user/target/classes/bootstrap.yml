@@ -1,0 +1,39 @@
+server:
+  port: 7070
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
+  datasource:
+    url: jdbc:mysql://rm-bp11itu200679rs7wxo.mysql.rds.aliyuncs.com:3306/tingle_db?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    username: dbuser
+    password: Guxuan180236
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: 39.99.252.239
+    port: 6379
+    password: Guxuan180236
+  application:
+    name: tingle-user
+  # profiles:
+  #   active: pro\
+swagger:
+  base-package: com.tingle.service.impl
+  title: SpringCloud2.x
+  description: tingle news system
+  version: 1.0
+  terms-of-service-url:
+  contact:
+    name: Ireck
+    email: 1257760164@qq.com
+    url:
+  enabled: true
+
+tingle:
+  login:
+    token:
+      prefix: userLogin

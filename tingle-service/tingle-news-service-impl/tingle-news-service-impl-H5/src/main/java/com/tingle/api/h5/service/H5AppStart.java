@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Date: 2021/01/04/22:49
  * @Description:
  */
-@SpringBootApplication()
+@SpringBootApplication
 @EnableSwagger2Doc
 public class H5AppStart {
     public static void main(String[] args) {

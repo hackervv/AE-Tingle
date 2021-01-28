@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bbef749-e865-4eea-9f28-9905b006010e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/src/main/java/com/tingle/basics/swagger/AppGateway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/src/main/java/com/tingle/basics/swagger/config/SwaggerProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/src/main/java/com/tingle/basics/swagger/filter/SwaggerHeaderFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/src/main/java/com/tingle/basics/swagger/hanlder/SwaggerHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-gateway/tingle-news-basics-springcloud-gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-nacos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics-springcloud-nacos/tingle-news-basics-springcloud-nacos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-basics/tingle-news-basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-common/tingle-news-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-job/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-job/tingle-news-job.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/tingle-news-service-api-h5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/tingle-news-service-api-h5/src/main/java/com/tingle/api/h5/service/H5NewsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/tingle-news-service-api-h5/target/classes/com/tingle/api/h5/service/H5NewsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/tingle-news-service-api-h5/tingle-news-service-api-h5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-api/tingle-news-service-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-api-base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-api-base/src/main/java/com/tingle/api/service/base/BaseApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-api-base/src/main/java/com/tingle/api/service/base/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-api-base/src/main/java/com/tingle/api/service/constants/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-api-base/tingle-news-service-api-base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-base/tingle-news-service-base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/H5AppStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/impl/H5NewsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/target/classes/META-INF/tingle-news-service-imp-lH5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/target/classes/com/tingle/api/h5/service/H5AppStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl-H5/target/classes/com/tingle/api/h5/service/impl/H5NewsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tingle/tingle-news-service-impl/tingle-news-service-impl.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-base/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-api/tingle-news-service-api-h5/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-basics/tingle-news-basics-springcloud-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-basics/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-job/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-common/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-impl/tingle-news-service-impl-H5/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-basics/tingle-news-basics-springcloud-nacos/target/" />
+    <ignored path="$PROJECT_DIR$/../tingle-service/tingle-news-service-base/tingle-news-service-api-base/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../tingle-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../tingle-service/tingle-news-service-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/maven/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1617" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/workspace202011" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.H5AppStart">
+    <configuration name="H5AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tingle.api.h5.service.H5AppStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tingle.api.h5.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H5AppStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tingle-news-service-impl-H5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tingle.api.h5.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tingle.api.h5.service.H5AppStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.H5AppStart" />
+        <item itemvalue="Spring Boot.H5AppStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\顾轩\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshUserName" value="guxuan" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bbef749-e865-4eea-9f28-9905b006010e" name="Default Changelist" comment="" />
+      <created>1609859937323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609859937323</updated>
+      <workItem from="1609859941874" duration="289000" />
+      <workItem from="1609860277302" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="353000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25226668" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../tingle-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-impl/tingle-news-service-impl-H5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-job/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-basics/tingle-news-basics-springcloud-nacos/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-basics/tingle-news-basics-springcloud-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-api/tingle-news-service-api-h5/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tingle-service/tingle-news-service-impl/tingle-news-service-impl-H5/src/main/java/com/tingle/api/h5/service/H5AppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tingle-news-service-impl-H5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

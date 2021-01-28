@@ -1,6 +1,7 @@
 package com.tingle.api.service.base;
 
 import com.tingle.api.service.constants.Constants;
+import com.tingle.bean.AutoMapper;
 import lombok.Data;
 
 /**
@@ -58,5 +59,16 @@ public class BaseApiService<T> {
     public BaseResponse<T> setResult(Integer code, String msg, T data) {
         return new BaseResponse<T>(code, msg, data);
     }
-
+    
+    public BaseResponse<T> setResult(int sqlOperateCount, T successMsg, String errorMsg) {
+        return sqlOperateCount > 0 ? setResultSuccess(successMsg) : setResultError(errorMsg);
+    }
+    
+    public <Do> Do dtoToDo(Object dtoEntity, Class<Do> doClass) {
+        return AutoMapper.dtoToDo(dtoEntity, doClass);
+    }
+    
+    public <Dto> Dto DoToDto(Object dtoEntity, Class<Dto> droClass) {
+        return AutoMapper.doToDto(dtoEntity, droClass);
+    }
 }

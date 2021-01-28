@@ -1,0 +1,22 @@
+server:
+  port: 80
+spring:
+  application:
+    name: tingle-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      locator:
+        enabled: true
+      routes:
+        - id: tingle-user
+          uri: lb://tingle-user
+          predicates:
+            - Path=/tingle-user/**
+          filters:
+            - SwaggerHeaderFilter
+            - StripPrefix=1
+      x-forwarded:
+        enabled: false
