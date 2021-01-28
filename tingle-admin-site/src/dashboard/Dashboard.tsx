@@ -26,6 +26,7 @@ interface OrderStats {
 
 interface CustomerData {
     [key: string]: Customer;
+    
 }
 
 interface State {
