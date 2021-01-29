@@ -4,6 +4,7 @@ import Configuration from './configuration/Configuration';
 import Segments from './segments/Segements';
 
 export default [
+    //
     <Route exact path="/configuration" render={() => <Configuration />} />,
     <Route exact path="/segments" render={() => <Segments />} />,
 ];
