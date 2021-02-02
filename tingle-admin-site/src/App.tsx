@@ -13,7 +13,7 @@ function App() {
   const dataProvider = jsonServerProvider('https://jsonplaceholder.typicode.com');
   return (
     <Admin
-      title="AE Tingle Admin"
+      title="AE Tingle Admin Site"
       dataProvider={dataProvider}
       authProvider={authProvider}
       customRoutes={customRoutes}
